@@ -7,7 +7,7 @@
 |[강산아](https://github.com/gsandoo)|스포츠문화학|Backend|
 |[김세훈](https://github.com/khoon9)|컴퓨터공학|Frontend|
 |[나찬진](https://github.com/ckswls56)|컴퓨터공학|Backend|
-|[문채영](https://github.com/bbabbi)|컴퓨터공학|팀장, Frontend|
+|[문채영](https://github.com/jawoo-moon)|컴퓨터공학|팀장, Frontend|
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
